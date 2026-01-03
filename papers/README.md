@@ -8,11 +8,14 @@ The full texts of papers are published and maintained on external platforms.
 ## Published & Preprint Links
 
 - Jxiv (Japanese preprints / working papers)
+- 
   https://doi.org/10.51094/jxiv.1650
+  
   https://doi.org/10.51094/jxiv.1651
   
 
 - Zenodo (archival versions with DOI)
+- 
   https://doi.org/10.5281/zenodo.18113665
 
 
